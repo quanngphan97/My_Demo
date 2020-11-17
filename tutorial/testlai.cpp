@@ -35,6 +35,7 @@ int main(int argc, char** argv) {
 	return 0;
 	*/
 	Point2D p;
+	
 	p.Set(7.2,2.3);
 	p.Move(2.7,4.1);
 	Circle Cir;
